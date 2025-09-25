@@ -25,9 +25,9 @@ app.get("/me", (req:Request,res:Response)=>{
     success: true,
     message: "Student Information",
     data:{
-      studentId:"670610739",
-      firstName:"Sitiroj",
-      lastName:"Hemlakpairoge",
+      studentId:"670610702",
+      firstName:"Thanakorn",
+      lastName:"Kumkan",
       program:"CPE",
       section:"001"
     }
